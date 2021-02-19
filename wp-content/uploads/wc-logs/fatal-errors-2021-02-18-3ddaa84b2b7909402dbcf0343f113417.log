@@ -1,0 +1,12 @@
+2021-02-18T09:50:25+00:00 CRITICAL Uncaught Error: Call to undefined function hext2bin() in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\test.php:31
+Stack trace:
+#0 D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\test.php(41): my_simple_crypt('testuser@getblu...', 'e')
+#1 D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\functions.php(40): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wp-tester\wp-settings.php(514): include('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\wp-tester\wp-config.php(92): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\wp-tester\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wp-tester\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wp-tester\index.php(17): require('D:\\xampp\\htdocs...')
+#7 {main}
+  thrown in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\test.php on line 31
+

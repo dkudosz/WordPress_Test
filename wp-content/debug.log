@@ -1,0 +1,584 @@
+[19-Feb-2021 19:28:58 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:28:58 UTC] nonce issue
+[19-Feb-2021 19:28:58 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:28:58 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:28:58 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:28:58 UTC] Array
+(
+    [_wpnonce] => 5e1296d580
+    [_wp_http_referer] => /wp-tester/wp-admin/post.php?post=258&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => cpt__locations
+    [original_post_status] => publish
+    [referredby] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [_wp_original_http_referer] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [post_ID] => 258
+    [meta-box-order-nonce] => 9edbd03570
+    [closedpostboxesnonce] => c156751b7d
+    [original_post_title] => Test
+    [post_title] => Test
+    [samplepermalinknonce] => 6bb477755a
+    [_acf_screen] => post
+    [_acf_post_id] => 258
+    [_acf_validation] => 1
+    [_acf_nonce] => 
+    [_acf_changed] => 0
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 02
+    [jj] => 19
+    [aa] => 2021
+    [hh] => 17
+    [mn] => 26
+    [ss] => 50
+    [hidden_mm] => 02
+    [cur_mm] => 02
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2021
+    [cur_aa] => 2021
+    [hidden_hh] => 17
+    [cur_hh] => 19
+    [hidden_mn] => 26
+    [cur_mn] => 28
+    [original_publish] => Update
+    [save] => Update
+    [tax_input] => Array
+        (
+            [locations_category] => Array
+                (
+                    [0] => 0
+                )
+
+            [locations_tag] => 
+        )
+
+    [newlocations_category] => New Item Name
+    [newlocations_category_parent] => -1
+    [_ajax_nonce-add-locations_category] => 6b794a69e7
+    [newtag] => Array
+        (
+            [locations_tag] => 
+        )
+
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [css_cpt_nonce] => c02eaffe8b
+    [field1] => field1
+    [field2] => field2
+    [excerpt] => 
+    [post_name] => test
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 258
+    [post_content] => 
+    [post_excerpt] => 
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[19-Feb-2021 19:28:58 UTC] 5e1296d580
+[19-Feb-2021 19:28:58 UTC] /wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] editpost
+[19-Feb-2021 19:28:58 UTC] editpost
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] cpt__locations
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 9edbd03570
+[19-Feb-2021 19:28:58 UTC] c156751b7d
+[19-Feb-2021 19:28:58 UTC] Test
+[19-Feb-2021 19:28:58 UTC] Test
+[19-Feb-2021 19:28:58 UTC] 6bb477755a
+[19-Feb-2021 19:28:58 UTC] post
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 0
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] public
+[19-Feb-2021 19:28:58 UTC] public
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 17
+[19-Feb-2021 19:28:58 UTC] 26
+[19-Feb-2021 19:28:58 UTC] 50
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 17
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 26
+[19-Feb-2021 19:28:58 UTC] 28
+[19-Feb-2021 19:28:58 UTC] Update
+[19-Feb-2021 19:28:58 UTC] Update
+[19-Feb-2021 19:28:58 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:28:58 UTC] New Item Name
+[19-Feb-2021 19:28:58 UTC] -1
+[19-Feb-2021 19:28:58 UTC] 6b794a69e7
+[19-Feb-2021 19:28:58 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:28:58 UTC] 0
+[19-Feb-2021 19:28:58 UTC] -1
+[19-Feb-2021 19:28:58 UTC] c02eaffe8b
+[19-Feb-2021 19:28:58 UTC] field1
+[19-Feb-2021 19:28:58 UTC] field1
+[19-Feb-2021 19:28:58 UTC] field2
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] test
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] closed
+[19-Feb-2021 19:28:58 UTC] closed
+[19-Feb-2021 19:28:58 UTC] 5e1296d580
+[19-Feb-2021 19:28:58 UTC] /wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] editpost
+[19-Feb-2021 19:28:58 UTC] editpost
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] cpt__locations
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 9edbd03570
+[19-Feb-2021 19:28:58 UTC] c156751b7d
+[19-Feb-2021 19:28:58 UTC] Test
+[19-Feb-2021 19:28:58 UTC] Test
+[19-Feb-2021 19:28:58 UTC] 6bb477755a
+[19-Feb-2021 19:28:58 UTC] post
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 0
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] publish
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] public
+[19-Feb-2021 19:28:58 UTC] public
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 17
+[19-Feb-2021 19:28:58 UTC] 26
+[19-Feb-2021 19:28:58 UTC] 50
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 02
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 2021
+[19-Feb-2021 19:28:58 UTC] 17
+[19-Feb-2021 19:28:58 UTC] 19
+[19-Feb-2021 19:28:58 UTC] 26
+[19-Feb-2021 19:28:58 UTC] 28
+[19-Feb-2021 19:28:58 UTC] Update
+[19-Feb-2021 19:28:58 UTC] Update
+[19-Feb-2021 19:28:58 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:28:58 UTC] New Item Name
+[19-Feb-2021 19:28:58 UTC] -1
+[19-Feb-2021 19:28:58 UTC] 6b794a69e7
+[19-Feb-2021 19:28:58 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:28:58 UTC] 0
+[19-Feb-2021 19:28:58 UTC] -1
+[19-Feb-2021 19:28:58 UTC] c02eaffe8b
+[19-Feb-2021 19:28:58 UTC] field1
+[19-Feb-2021 19:28:58 UTC] field2
+[19-Feb-2021 19:28:58 UTC] field2
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] test
+[19-Feb-2021 19:28:58 UTC] 1
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 258
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] 
+[19-Feb-2021 19:28:58 UTC] closed
+[19-Feb-2021 19:28:58 UTC] closed
+[19-Feb-2021 19:28:59 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:30:18 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:30:18 UTC] nonce issue
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:30:18 UTC] Array
+(
+    [_wpnonce] => 5e1296d580
+    [_wp_http_referer] => /wp-tester/wp-admin/post.php?post=258&action=edit&message=1
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => cpt__locations
+    [original_post_status] => publish
+    [referredby] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [_wp_original_http_referer] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [post_ID] => 258
+    [meta-box-order-nonce] => 9edbd03570
+    [closedpostboxesnonce] => c156751b7d
+    [original_post_title] => Test
+    [post_title] => Test
+    [samplepermalinknonce] => 6bb477755a
+    [_acf_screen] => post
+    [_acf_post_id] => 258
+    [_acf_validation] => 1
+    [_acf_nonce] => 
+    [_acf_changed] => 0
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 02
+    [jj] => 19
+    [aa] => 2021
+    [hh] => 17
+    [mn] => 26
+    [ss] => 50
+    [hidden_mm] => 02
+    [cur_mm] => 02
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2021
+    [cur_aa] => 2021
+    [hidden_hh] => 17
+    [cur_hh] => 19
+    [hidden_mn] => 26
+    [cur_mn] => 28
+    [original_publish] => Update
+    [save] => Update
+    [tax_input] => Array
+        (
+            [locations_category] => Array
+                (
+                    [0] => 0
+                )
+
+            [locations_tag] => 
+        )
+
+    [newlocations_category] => New Item Name
+    [newlocations_category_parent] => -1
+    [_ajax_nonce-add-locations_category] => 6b794a69e7
+    [newtag] => Array
+        (
+            [locations_tag] => 
+        )
+
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [css_cpt_nonce] => c02eaffe8b
+    [field1] => sdsdsdsd
+    [field2] => asasasasas
+    [excerpt] => 
+    [post_name] => test
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 258
+    [post_content] => 
+    [post_excerpt] => 
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined index: field1 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined index: field1 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field1' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined index: field2 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Undefined index: field2 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Notice:  Uninitialized string offset: 0 in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Warning:  Illegal string offset 'field2' in D:\xampp\htdocs\wp-tester\wp-content\themes\twentytwenty\cpt.php on line 235
+[19-Feb-2021 19:30:18 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:31:43 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:31:43 UTC] nonce issue
+[19-Feb-2021 19:31:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:31:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:31:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:31:43 UTC] Array
+(
+    [_wpnonce] => 5e1296d580
+    [_wp_http_referer] => /wp-tester/wp-admin/post.php?post=258&action=edit&message=1
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => cpt__locations
+    [original_post_status] => publish
+    [referredby] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [_wp_original_http_referer] => http://localhost/wp-tester/wp-admin/post.php?post=258&action=edit
+    [post_ID] => 258
+    [meta-box-order-nonce] => 9edbd03570
+    [closedpostboxesnonce] => c156751b7d
+    [original_post_title] => Test
+    [post_title] => Test
+    [samplepermalinknonce] => 6bb477755a
+    [_acf_screen] => post
+    [_acf_post_id] => 258
+    [_acf_validation] => 1
+    [_acf_nonce] => 
+    [_acf_changed] => 0
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 02
+    [jj] => 19
+    [aa] => 2021
+    [hh] => 17
+    [mn] => 26
+    [ss] => 50
+    [hidden_mm] => 02
+    [cur_mm] => 02
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2021
+    [cur_aa] => 2021
+    [hidden_hh] => 17
+    [cur_hh] => 19
+    [hidden_mn] => 26
+    [cur_mn] => 30
+    [original_publish] => Update
+    [save] => Update
+    [tax_input] => Array
+        (
+            [locations_category] => Array
+                (
+                    [0] => 0
+                )
+
+            [locations_tag] => 
+        )
+
+    [newlocations_category] => New Item Name
+    [newlocations_category_parent] => -1
+    [_ajax_nonce-add-locations_category] => 6b794a69e7
+    [newtag] => Array
+        (
+            [locations_tag] => 
+        )
+
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [css_cpt_nonce] => c02eaffe8b
+    [field1] => sdasdada
+    [field2] => sdsdsdsdsdsdsd
+    [excerpt] => 
+    [post_name] => test
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 258
+    [post_content] => 
+    [post_excerpt] => 
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[19-Feb-2021 19:31:43 UTC] sdasdada
+[19-Feb-2021 19:31:43 UTC] sdsdsdsdsdsdsd
+[19-Feb-2021 19:31:44 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:32:21 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:34:15 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:35:06 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:35:58 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:36:08 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:36:08 UTC] nonce issue
+[19-Feb-2021 19:36:08 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:36:08 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:36:08 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:36:08 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:36:47 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:37:46 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:37:50 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:37:50 UTC] nonce issue
+[19-Feb-2021 19:37:50 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:37:50 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:37:50 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:37:51 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:38:57 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:39:02 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:39:02 UTC] nonce issue
+[19-Feb-2021 19:39:02 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:39:02 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:39:02 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:39:02 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:43:43 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:43:43 UTC] nonce issue
+[19-Feb-2021 19:43:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:43 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:50 UTC] nonce issue
+[19-Feb-2021 19:43:57 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
+[19-Feb-2021 19:43:57 UTC] nonce issue
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] nonce issue
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\wp-tester\wp-includes\capabilities.php on line 143
+[19-Feb-2021 19:43:57 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in D:\xampp\htdocs\wp-tester\wp-content\plugins\middleware-base\auto-update\plugin-update-checker.php on line 886
